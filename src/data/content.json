@@ -1,0 +1,62 @@
+{
+  "navigation": {
+    "brand": "Portfolio",
+    "items": [
+      { "label": "Home", "href": "#home" },
+      { "label": "About", "href": "#about" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "subtitle": "I create exceptional user experiences through modern web technologies, focusing on performance, accessibility, and beautiful design.",
+    "cta": {
+      "projects": "View My Work",
+      "download": "Download Resume"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "My Journey",
+    "description": [
+      "My journey in software development began with a curiosity about how things work behind the scenes. What started as tinkering with HTML and CSS has evolved into a comprehensive skill set spanning multiple technologies and frameworks.",
+      "I specialize in building responsive web applications using React and TypeScript, with a strong focus on user experience and performance optimization. I'm particularly passionate about creating interfaces that are both aesthetically pleasing and highly functional.",
+      "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community through blog posts and tutorials."
+    ]
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Here are some of the projects I've worked on. Each project represents a unique challenge and showcases different aspects of my development skills.",
+    "buttons": {
+      "viewLive": "Live Demo",
+      "viewCode": "Code"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology. Feel free to reach out!",
+    "followMe": "Follow Me",
+    "form": {
+      "name": "Name *",
+      "email": "Email *",
+      "subject": "Subject *",
+      "message": "Message *",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "your.email@example.com",
+      "subjectPlaceholder": "What's this about?",
+      "messagePlaceholder": "Tell me about your project or just say hello!",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! Your message has been sent successfully. I'll get back to you soon.",
+      "error": "Sorry, there was an error sending your message. Please try again or contact me directly."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Portfolio. All rights reserved.",
+    "madeWith": "Made with",
+    "tech": "and React",
+    "builtWith": "Built with React, TypeScript, Tailwind CSS & Framer Motion",
+    "backToTop": "Back to top"
+  }
+}

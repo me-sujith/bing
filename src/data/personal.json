@@ -1,0 +1,15 @@
+{
+  "name": "Sujith Sabu",
+  "title": "Full Stack Developer & Tech Enthusiast",
+  "tagline": "Building innovative digital solutions with clean, efficient code and exceptional user experiences",
+  "bio": "I'm a passionate full-stack developer with a love for creating digital experiences that are not only functional but also beautiful and intuitive. With expertise in modern web technologies, I bring ideas to life through clean code and thoughtful design.",
+  "location": "Your City, Country",
+  "email": "your.email@example.com",
+  "phone": "+1 (555) 123-4567",
+  "resume": "/resume.pdf",
+  "social": {
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "twitter": "https://twitter.com/yourusername"
+  }
+}

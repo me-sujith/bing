@@ -1,0 +1,29 @@
+{
+  "technical": [
+    {
+      "category": "Frontend",
+      "icon": "Palette",
+      "skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Framer Motion"]
+    },
+    {
+      "category": "Backend",
+      "icon": "Code",
+      "skills": ["Node.js", "Express", "Python", "PostgreSQL", "MongoDB"]
+    },
+    {
+      "category": "Mobile",
+      "icon": "Smartphone",
+      "skills": ["React Native", "Flutter", "iOS", "Android"]
+    },
+    {
+      "category": "Tools & Others",
+      "icon": "Globe",
+      "skills": ["Git", "Docker", "AWS", "Figma", "Jest"]
+    }
+  ],
+  "stats": [
+    { "number": "50+", "label": "Projects Completed" },
+    { "number": "3+", "label": "Years Experience" },
+    { "number": "100%", "label": "Client Satisfaction" }
+  ]
+}
